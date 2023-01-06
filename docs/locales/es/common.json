@@ -66,7 +66,8 @@
   "noOptionsParts": {
     "title": "No podemos encontrar <strong>-{{requestedPart}}-</strong> en nuestro sistema, prueba lo siguiente:",
     "body": "<ol><li>Verifica que esta pieza corresponda al <strong>área del auto</strong> que elegiste</li><li>Prueba usando otro nombre con que se conozca esta pieza</li><li>Comprueba que la pieza esté bien escrita</li></ol>",
-    "footer": "Si ya verificaste lo anterior y quieres agregar la pieza <strong>-{{requestedPart}}-</strong> en el <strong>{{carArea}}</strong> puedes continuar"
+    "footer": "Si ya verificaste lo anterior y quieres agregar la pieza <strong>-{{requestedPart}}-</strong> en el <strong>{{carArea}}</strong> puedes continuar",
+    "error": "Disculpa, no pudimos agregar la pieza. Por favor, vuelve a intentar."
   },
   "noteUndoMsg": "Nota: una vez hagas clic en “SI”, no puedes reversar esta acción.",
   "part": "Parte",
